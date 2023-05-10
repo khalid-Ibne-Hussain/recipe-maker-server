@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "country_name": "Bangladeshi"
+    },
+    {
+        "id": 2,
+        "country_name": "Chinese"
+    },
+    {
+        "id": 3,
+        "country_name": "Indian"
+    },
+    {
+        "id": 4,
+        "country_name": "Mediterranean"
+    },
+    {
+        "id": 5,
+        "country_name": "Thai"
+    },
+    {
+        "id": 6,
+        "country_name": "Japanese"
+    },
+    {
+        "id": 7,
+        "country_name": "Italian"
+    },
+    {
+        "id": 8,
+        "country_name": "African"
+    },
+    {
+        "id": 9,
+        "country_name": "Vietnamese"
+    },
+    {
+        "id": 10,
+        "country_name": "Srilankan"
+    },
+    {
+        "id": 11,
+        "country_name": "Nepalese"
+    },
+    {
+        "id": 12,
+        "country_name": "American"
+    },
+    {
+        "id": 13,
+        "country_name": "Korean"
+    },
+    {
+        "id": 14,
+        "country_name": "Mexican"
+    },
+    {
+        "id": 15,
+        "country_name": "Australian"
+    },
+    {
+        "id": 16,
+        "country_name": "Afgan"
+    },
+    {
+        "id": 17,
+        "country_name": "French"
+    }
+]

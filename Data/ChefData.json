@@ -1,0 +1,846 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2023/02/06/asad2.jpg?itok=4QaF2NLu&timestamp=1675682788",
+        "chef_name": "Zakir Ahmed",
+        "chef_bio": "Zakir Ahmed is a British chef, restaurateur, television personality, and writer. He has been awarded a total of 16 Michelin stars, and his restaurants have been awarded a combined total of 7 Michelin stars. Smith is known for his fiery temper and high standards in the kitchen, and he has become a popular figure in reality television cooking shows.",
+        "years_of_experience": 15,
+        "num_recipes": 3,
+        "likes": 1000,
+        "recipes": [
+            {
+                "r_id": 901,
+                "name": "Beef Wellington",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A classic British dish consisting of beef fillet coated with pâté and duxelles, then wrapped in puff pastry and baked.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 400 degrees F (200 degrees C). Season the beef filet with salt and pepper.",
+                    "Heat a large skillet over high heat and add a little olive oil. When the oil is hot, add the beef filet and sear it on all sides until browned. Remove from the pan and set aside.",
+                    "In the same skillet, add the mushrooms, garlic, thyme, and butter. Cook until the mushrooms are soft and the liquid has evaporated.",
+                    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/4 inch. Spread the Dijon mustard over the pastry.",
+                    "Place the mushroom mixture in the center of the pastry, forming a rectangle about the same length and width as the beef filet.",
+                    "Place the beef filet on top of the mushroom mixture and fold the pastry up and over the beef, pressing the edges together to seal.",
+                    "Brush the pastry with the beaten egg yolk and use a sharp knife to score the pastry in a decorative pattern.",
+                    "Place the Beef Wellington on a baking sheet and bake for about 30 minutes, or until the pastry is golden brown and the beef is cooked to your desired level of doneness.",
+                    "Let the Beef Wellington rest for 5-10 minutes before slicing and serving."
+                ],
+                "ingredients": [
+                    "1 lb beef fillet",
+                    "1 lb puff pastry",
+                    "1/2 cup pâté",
+                    "1/2 cup mushroom duxelles",
+                    "1 egg, beaten"
+                ]
+            },
+            {
+                "r_id": 902,
+                "name": "Scrambled Eggs",
+                "r_img": "https://i0.wp.com/notoutofthebox.in/wp-content/uploads/2013/12/fish.jpg",
+                "rating": 5,
+                "cooking_method": [
+                    "Crack the eggs into a bowl and beat them until the yolks and whites are well combined.",
+                    "Add the milk, salt, and pepper to the eggs and whisk everything together until well combined.",
+                    "Melt the butter in a non-stick skillet over medium heat. Once melted, swirl the pan to coat the bottom evenly with the melted butter.",
+                    "Add the egg mixture to the skillet and let it cook for a few seconds, until the eggs begin to set around the edges.",
+                    "Use a spatula to gently stir the eggs from the outside in, scraping the bottom of the skillet as you go. Keep stirring and scraping until the eggs are cooked through and no longer runny.",
+                    "Remove the skillet from the heat and transfer the scrambled eggs to a serving plate. Serve immediately."
+                ],
+                "ingredients": [
+                    "3 eggs",
+                    "1 tbsp butter",
+                    "1 tbsp milk",
+                    "Salt and pepper, to taste",
+                    "1 cup flour"
+                ]
+            },
+            {
+                "r_id": 903,
+                "name": "Fish and Chips",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "description": "Crispy battered fish served with thick-cut chips, a classic British dish that's always popular.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven according to the instructions on the French fries bag.",
+                    "Arrange the frozen fish fillets on a baking sheet lined with parchment paper.",
+                    "Sprinkle the fish fillets with salt to taste.",
+                    "Bake the fish fillets in the oven for the amount of time specified on the packaging.",
+                    "While the fish is baking, prepare the French fries according to the instructions on the bag. Usually this involves spreading them out on a baking sheet and baking them in the oven alongside the fish.",
+                    "When both the fish and fries are done, remove them from the oven and transfer them to a serving plate.",
+                    "Serve the fish and chips immediately, with any desired condiments such as ketchup or tartar sauce."
+                ],
+                "ingredients": [
+                    "1 lb cod fillets",
+                    "1 cup flour",
+                    "1 cup beer",
+                    "1 tsp baking powder",
+                    "1 tsp salt",
+                    "2 lbs potatoes, cut into chips",
+                    "Oil for frying"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://dg1xqmhtoint1.cloudfront.net/img/vadodara/blog/blog-chef.webp?mtime=20220615123310&focal=none",
+        "chef_name": "Soumita Osman",
+        "chef_bio": "Soumita Osman is a British chef and restaurateur who is known for his approachable style of cooking and his commitment to healthy eating. He has published numerous cookbooks, hosted several cooking shows, and opened several restaurants around the world. Osman is also an advocate for food education and has launched several initiatives to improve food quality in schools.",
+        "years_of_experience": 10,
+        "num_recipes": 3,
+        "likes": 800,
+        "recipes": [
+            {
+                "r_id": 801,
+                "name": "Roast Chicken",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "Juicy and succulent roast chicken, infused with herbs and lemon.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 whole chicken",
+                    "2 lemons",
+                    "3 sprigs of fresh thyme",
+                    "3 sprigs of fresh rosemary",
+                    "4 cloves of garlic",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 802,
+                "name": "Spaghetti Bolognese",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                "description": "A classic Italian pasta dish made with a rich tomato-based sauce and minced beef.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb spaghetti",
+                    "1 lb minced beef",
+                    "1 onion, chopped",
+                    "2 cloves of garlic, minced",
+                    "1 can of chopped tomatoes",
+                    "1 tbsp tomato paste",
+                    "1 tbsp olive oil",
+                    "1 tsp dried oregano",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 803,
+                "name": "Fish Pie",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "description": "A comforting and hearty fish pie, made with a creamy white sauce and topped with mashed potatoes.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb white fish, such as cod or haddock",
+                    "1/2 lb smoked haddock",
+                    "2 hard-boiled eggs, sliced",
+                    "1 onion, chopped",
+                    "2 cloves of garlic, minced",
+                    "2 tbsp butter",
+                    "2 tbsp flour",
+                    "1 cup milk",
+                    "1 cup vegetable broth",
+                    "2 lbs potatoes, boiled and mashed",
+                    "1 tbsp chopped parsley",
+                    "Salt and pepper, to taste"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/beautiful-young-woman-chopping-vegetables-cooking-some-food-home_662251-2392.jpg?w=1380&t=st=1683206378~exp=1683206978~hmac=61fa85dd00cceed211be08c539e73dea566a89e531a765568e9f7487b507238a",
+        "chef_name": "Nina Hajong",
+        "chef_bio": "Nina Hajong, also known as the Barefoot Contessa, is an American chef and television personality. She is known for her simple, elegant cooking style and her use of fresh, high-quality ingredients. Hajong has written numerous cookbooks and hosted several cooking shows, and her recipes are beloved by home cooks around the world.",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "likes": 1500,
+        "recipes": [
+            {
+                "r_id": 701,
+                "name": "Grilled Steak",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dhokar_dalna.jpg",
+                "description": "Juicy and flavorful grilled steak, perfect for a summer barbecue.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 ribeye steaks",
+                    "2 tbsp olive oil",
+                    "1 tsp dried thyme",
+                    "1 tsp dried oregano",
+                    "1 tsp garlic powder",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 702,
+                "name": "Tacos al Pastor",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A traditional Mexican dish made with marinated pork and pineapple, served in soft corn tortillas.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb pork shoulder, sliced thin",
+                    "1 cup pineapple chunks",
+                    "1/2 onion, chopped",
+                    "2 cloves of garlic, minced",
+                    "2 tbsp achiote paste",
+                    "1 tbsp white vinegar",
+                    "1 tsp dried oregano",
+                    "1 tsp ground cumin",
+                    "Salt and pepper, to taste",
+                    "Corn tortillas, for serving"
+                ]
+            },
+            {
+                "r_id": 703,
+                "name": "Seafood Paella",
+                "r_img": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2019/04/img_7076_ezy-watermark_29-04-2019_08-09-27pm.jpg?w=1440&ssl=1",
+                "description": "A classic Spanish dish made with rice, saffron, and a variety of seafood.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 cups short-grain rice",
+                    "1 lb shrimp, peeled and deveined",
+                    "1 lb mussels, cleaned and debearded",
+                    "1 lb clams, cleaned",
+                    "1 onion, chopped",
+                    "2 cloves of garlic, minced",
+                    "1 red bell pepper, sliced",
+                    "1 can of diced tomatoes",
+                    "4 cups chicken broth",
+                    "1 tsp smoked paprika",
+                    "1/2 tsp saffron threads",
+                    "1/4 cup chopped parsley",
+                    "Salt and pepper, to taste"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://static01.nyt.com/images/2020/03/26/dining/25Cardoz1/25Cardoz1-superJumbo.jpg?quality=75&auto=webp",
+        "chef_name": "Sonjay Saha",
+        "chef_bio": "Sonjay Saha was an American chef, author, and television personality. He was known for his fearless approach to food and his love of exploring different cultures and cuisines. Saha hosted several cooking and travel shows, and his writing has been widely praised for its wit, insight, and honesty.",
+        "years_of_experience": 5,
+        "num_recipes": 3,
+        "likes": 500,
+        "recipes": [
+            {
+                "r_id": 101,
+                "name": "Lobster Mac and Cheese",
+                "r_img": "https://i0.wp.com/notoutofthebox.in/wp-content/uploads/2013/12/fish.jpg",
+                "description": "A decadent and indulgent pasta dish made with lobster meat, Gruyere cheese, and breadcrumbs.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb macaroni",
+                    "1 lb cooked lobster meat",
+                    "2 cups Gruyere cheese, shredded",
+                    "1/2 cup breadcrumbs",
+                    "4 tbsp butter",
+                    "4 tbsp flour",
+                    "2 cups milk",
+                    "1/2 cup heavy cream",
+                    "1/4 tsp nutmeg",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 102,
+                "name": "Roast Chicken with Lemon and Garlic",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A simple and flavorful roast chicken recipe, with fresh herbs, lemon, and garlic.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 whole chicken",
+                    "2 lemons, sliced",
+                    "1 head of garlic, cut in half",
+                    "4 sprigs of fresh thyme",
+                    "4 sprigs of fresh rosemary",
+                    "4 tbsp butter, softened",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 103,
+                "name": "Vegetable Tian",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dhokar_dalna.jpg",
+                "description": "A colorful and healthy vegetable dish, with layers of sliced vegetables baked in a tomato sauce.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 eggplant, sliced",
+                    "1 zucchini, sliced",
+                    "1 yellow squash, sliced",
+                    "2 large tomatoes, sliced",
+                    "1 onion, sliced",
+                    "3 cloves of garlic, minced",
+                    "1 can of diced tomatoes",
+                    "1 tsp dried oregano",
+                    "1 tsp dried thyme",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2018/11/Garima-Arora-Becomes-the-First-Female-Indian-Chef-Feature.jpg?tr=w-1920",
+        "chef_name": "Mary Hajong",
+        "chef_bio": "Nigella Hajong is a British chef, food writer, and television personality. She is known for her sensual, indulgent approach to food and her ability to make even the simplest dishes seem decadent. Hajong has written numerous cookbooks, hosted several cooking shows, and has been a popular guest on cooking and talk shows around the world.",
+        "years_of_experience": 8,
+        "num_recipes": 3,
+        "likes": 700,
+        "recipes": [
+            {
+                "r_id": 201,
+                "name": "Spaghetti Carbonara",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dhokar_dalna.jpg",
+                "description": "A classic Italian pasta dish made with spaghetti, eggs, pancetta, and Parmesan cheese.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb spaghetti",
+                    "4 egg yolks",
+                    "1/2 cup grated Parmesan cheese",
+                    "4 oz pancetta, diced",
+                    "4 cloves of garlic, minced",
+                    "1 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 202,
+                "name": "Shepherd's Pie",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A hearty and comforting British dish made with ground lamb, vegetables, and mashed potatoes.",
+                "rating": 4.5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb ground lamb",
+                    "1 onion, chopped",
+                    "2 carrots, chopped",
+                    "2 celery stalks, chopped",
+                    "2 cloves of garlic, minced",
+                    "2 tbsp tomato paste",
+                    "1 cup beef broth",
+                    "1 tsp dried thyme",
+                    "4 cups mashed potatoes",
+                    "1/4 cup grated Parmesan cheese",
+                    "2 tbsp butter",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 203,
+                "name": "Thai Green Curry",
+                "r_img": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2019/04/img_7076_ezy-watermark_29-04-2019_08-09-27pm.jpg?w=1440&ssl=1",
+                "description": "A spicy and fragrant Thai dish made with chicken, vegetables, and a homemade green curry paste.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb chicken breast, sliced",
+                    "1 can of coconut milk",
+                    "1 green bell pepper, sliced",
+                    "1 red bell pepper, sliced",
+                    "1 onion, chopped",
+                    "3 cloves of garlic, minced",
+                    "1 inch piece of ginger, grated",
+                    "1 stalk of lemongrass, chopped",
+                    "2 tbsp green curry paste",
+                    "1 tsp fish sauce",
+                    "1 tsp sugar",
+                    "1/4 cup chopped cilantro",
+                    "2 tbsp vegetable oil",
+                    "Salt and pepper, to taste"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://static.standard.co.uk/2022/06/29/15/newFile-9.jpg?width=1024&auto=webp&quality=50&crop=968%3A645%2Csmart",
+        "chef_name": "Simon Jude",
+        "chef_bio": "Simon Jude is an Italian chef and restaurateur who is widely regarded as one of the best chefs in the world. He has been awarded three Michelin stars for his restaurant, Osteria Francescana, and his innovative approach to Italian cuisine has won him numerous accolades and awards. Jude is also known for his philanthropic work and his commitment to reducing food waste.",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "likes": 900,
+        "recipes": [
+            {
+                "r_id": 301,
+                "name": "Chocolate Guinness Cake",
+                "r_img": "https://images-gmi-pmc.edge-generalmills.com/5fe07bdf-9f48-411a-8843-228211c84f8e.jpg",
+                "description": "A rich and moist chocolate cake made with Guinness stout and topped with cream cheese frosting.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 1/4 cups Guinness stout",
+                    "1/2 cup unsalted butter, cubed",
+                    "3/4 cup unsweetened cocoa powder",
+                    "2 cups granulated sugar",
+                    "3/4 cup sour cream",
+                    "2 large eggs",
+                    "1 tbsp vanilla extract",
+                    "2 cups all-purpose flour",
+                    "2 1/2 tsp baking soda",
+                    "For the frosting: 8 oz cream cheese, softened, 1/2 cup unsalted butter, softened, 4 cups powdered sugar,1 tsp vanilla extract"
+                ]
+            },
+            {
+                "r_id": 302,
+                "name": "Linguine with Clams",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                "description": "A simple and delicious Italian pasta dish made with linguine and fresh clams in a white wine and garlic sauce.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 lb linguine",
+                    "2 lbs fresh clams",
+                    "4 cloves of garlic, minced",
+                    "1/2 cup white wine",
+                    "1/4 cup chopped parsley",
+                    "2 tbsp butter",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 303,
+                "name": "Slow-Cooker Beef Stew",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A hearty and comforting beef stew made with tender chunks of beef, root vegetables, and a rich tomato and beef broth.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 lbs beef chuck, cut into chunks",
+                    "4 carrots, chopped",
+                    "2 parsnips, chopped",
+                    "2 celery stalks, chopped",
+                    "1 onion, chopped",
+                    "4 cloves of garlic, minced",
+                    "2 cups beef broth",
+                    "1 can of diced tomatoes",
+                    "1 tsp dried thyme",
+                    "1 tsp dried rosemary",
+                    "2 bay leaves",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://static.businessworld.in/article/article_extra_large_image/1525335400_p5tQZ0_cropped_(3).png",
+        "chef_name": "Tonmoy Chiran",
+        "chef_bio": "Tonmoy Chiran is an Israeli-British chef, restaurateur, and food writer. He is known for his vegetarian and Middle Eastern-inspired cooking, and his recipes are beloved for their bold flavors and creative combinations. Chiran has written numerous cookbooks and has been a regular contributor to food magazines and newspapers around the world.",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "likes": 750,
+        "recipes": [
+            {
+                "r_id": 401,
+                "name": "Beef Wellington",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+                "description": "A classic British dish made with beef tenderloin, mushrooms, and puff pastry.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 lbs beef tenderloin",
+                    "1 lb mushrooms, finely chopped",
+                    "4 cloves of garlic, minced",
+                    "1 onion, chopped",
+                    "1/4 cup chopped parsley",
+                    "1/4 cup Dijon mustard",
+                    "2 sheets of puff pastry",
+                    "1 egg, beaten",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 402,
+                "name": "Lemon Sole with Beurre Blanc",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A simple and elegant French dish made with lemon sole fillets and a rich beurre blanc sauce.",
+                "rating": 4.5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "4 lemon sole fillets",
+                    "1/2 cup white wine",
+                    "1/4 cup white wine vinegar",
+                    "1 shallot, chopped",
+                    "1/2 cup unsalted butter, cubed",
+                    "1 lemon, juiced",
+                    "2 tbsp chopped chives",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 403,
+                "name": "Sticky Toffee Pudding",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "description": "A decadent British dessert made with dates, toffee sauce, and vanilla ice cream.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 cup chopped dates",
+                    "1 tsp baking soda",
+                    "1/2 cup unsalted butter, cubed",
+                    "3/4 cup brown sugar",
+                    "2 eggs",
+                    "1 tsp vanilla extract",
+                    "1 1/2 cups all-purpose flour",
+                    "1 tsp baking powder",
+                    "1/4 tsp salt",
+                    "For the toffee sauce: 1 cup heavy cream, 1 cup brown sugar, 1/2 cup unsalted butter, 1 tsp vanilla extract",
+                    "Vanilla ice cream, for serving"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://static.businessworld.in/article/article_extra_large_image/1571385267_wbcRXQ_Chef_Manumon_Pastry_Chef_JW_Marriott_Hotel_Bengaluru_Copy.JPG",
+        "chef_name": "Mollika Tosi",
+        "chef_bio": "Mollika Tosi is an American chef, author, and entrepreneur. She is the founder of the Milk Bar bakery chain, which has become known for its inventive desserts and playful, nostalgic flavors. Tosi has written several cookbooks and has been a regular judge on the cooking competition show, MasterChef.",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "likes": 650,
+        "recipes": [
+            {
+                "r_id": 501,
+                "name": "Roast Chicken",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A simple and flavorful roasted chicken recipe that is perfect for any occasion.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 whole chicken",
+                    "2 lemons, halved",
+                    "1 head of garlic, halved",
+                    "1/2 cup unsalted butter, softened",
+                    "1/4 cup chopped parsley",
+                    "1 tbsp chopped thyme",
+                    "1 tbsp chopped rosemary",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 502,
+                "name": "Summer Vegetable Tian",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dhokar_dalna.jpg",
+                "description": "A colorful and delicious vegetable dish made with sliced summer vegetables and a touch of cream.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 zucchinis, sliced",
+                    "2 yellow squashes, sliced",
+                    "2 large tomatoes, sliced",
+                    "1 onion, sliced",
+                    "4 cloves of garlic, minced",
+                    "1/2 cup heavy cream",
+                    "1/2 cup grated Parmesan cheese",
+                    "2 tbsp olive oil",
+                    "1 tbsp chopped thyme",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 503,
+                "name": "Strawberry Shortcake",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "description": "A classic American dessert made with fresh strawberries, whipped cream, and shortcake biscuits.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 cups sliced strawberries",
+                    "1/4 cup granulated sugar",
+                    "2 cups all-purpose flour",
+                    "2 tbsp granulated sugar",
+                    "2 tsp baking powder",
+                    "1/2 tsp baking soda",
+                    "1/2 tsp salt",
+                    "1/2 cup unsalted butter, chilled and cubed",
+                    "1/2 cup milk",
+                    "1/2 cup heavy cream, whipped",
+                    "1 tsp vanilla extract"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "chef_picture": "https://static.thehoneycombers.com/wp-content/uploads/sites/2/2021/08/Favourite-local-food-chef-Louis-Han-NAEUM-900x643.png",
+        "chef_name": "Nahid Osman",
+        "chef_bio": "Nahid Osman is a Korean-American chef, restaurateur, and television personality. He is the founder of the Momofuku restaurant group, which has locations in several cities around the world. Osman is known for his innovative approach to Asian-inspired cuisine and his willingness to take risks in the kitchen. He has also hosted several cooking and travel shows and has been a frequent guest on food and talk shows.",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "likes": 900,
+        "recipes": [
+            {
+                "r_id": 601,
+                "name": "Middle Eastern Spiced Chickpeas",
+                "r_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+                "description": "A flavorful and healthy chickpea dish made with Middle Eastern spices.",
+                "rating": 5,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "2 cans of chickpeas, drained and rinsed",
+                    "1 onion, chopped",
+                    "4 cloves of garlic, minced",
+                    "1 red bell pepper, chopped",
+                    "1 tsp ground cumin",
+                    "1 tsp ground coriander",
+                    "1/2 tsp smoked paprika",
+                    "1/4 tsp cayenne pepper",
+                    "2 tbsp olive oil",
+                    "1 lemon, juiced",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 602,
+                "name": "Shakshuka",
+                "r_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+                "description": "A classic Middle Eastern dish made with eggs poached in a spiced tomato sauce.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 onion, chopped",
+                    "4 cloves of garlic, minced",
+                    "1 red bell pepper, chopped",
+                    "1 can of diced tomatoes",
+                    "1 tsp ground cumin",
+                    "1 tsp paprika",
+                    "1/4 tsp cayenne pepper",
+                    "4-6 eggs",
+                    "2 tbsp chopped parsley",
+                    "2 tbsp olive oil",
+                    "Salt and pepper, to taste"
+                ]
+            },
+            {
+                "r_id": 603,
+                "name": "Chocolate and Tahini Brownies",
+                "r_img": "https://images-gmi-pmc.edge-generalmills.com/5fe07bdf-9f48-411a-8843-228211c84f8e.jpg",
+                "description": "A delicious and unique twist on traditional chocolate brownies, made with tahini and topped with a sesame seed crunch.",
+                "rating": 4,
+                "cooking_method": [
+                    "Preheat the oven to 425°F.",
+                    "Rinse the chicken and pat it dry with paper towels. Place the chicken in a roasting pan, breast side up.",
+                    "Melt the butter in a small bowl and brush it over the chicken, making sure to coat it evenly.",
+                    "Mix together the salt, black pepper, garlic powder, and onion powder in a small bowl, and sprinkle the seasoning mixture over the chicken.",
+                    "Roast the chicken in the oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F when measured with a meat thermometer.",
+                    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+                    "Serve the roast chicken with your favorite sides and enjoy!"
+                ],
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "1/2 cup unsweetened cocoa powder",
+                    "1 tsp baking powder",
+                    "1/2 tsp salt",
+                    "1/2 cup tahini",
+                    "1/2 cup unsalted butter, softened",
+                    "1 cup granulated sugar",
+                    "2 large eggs",
+                    "1 tsp vanilla extract",
+                    "1/4 cup sesame seeds",
+                    "1/4 cup honey"
+                ]
+            }
+        ]
+    }
+]

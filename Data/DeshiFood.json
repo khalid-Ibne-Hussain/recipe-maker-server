@@ -1,0 +1,50 @@
+[
+    {
+        "food_id": 101,
+        "food_name": "Biriyani",
+        "food_img": "https://www.onmanorama.com/content/dam/mm/en/food/in-season/Ramzan/Images/hyderabadi-dum-biryani.jpg.transform/845x440/image.jpg",
+        "mini_description": "A rice dish with meat, spices, and vegetables. Everyone likes this food.",
+        "estimated_time": "2 hours",
+        "country": "Bangladeshi"
+    },
+    {
+        "food_id": 102,
+        "food_name": "Fish curry",
+        "food_img": "https://i0.wp.com/notoutofthebox.in/wp-content/uploads/2013/12/fish.jpg",
+        "mini_description": "A spicy curry made with fish and a variety of herbs and spices.",
+        "estimated_time": "1 hour",
+        "country": "Bangladeshi"
+    },
+    {
+        "food_id": 103,
+        "food_name": "Shorshe Ilish",
+        "food_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+        "mini_description": "A traditional dish of mustard seed paste and ilish fish.",
+        "estimated_time": "45 minutes",
+        "country": "Bangladeshi"
+    },
+    {
+        "food_id": 104,
+        "food_name": "Chingri Malai Curry",
+        "food_img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gr%C3%B8ntsager_og_tigerrejer_i_r%C3%B8d_karry_%284477230448%29.jpg",
+        "mini_description": "A rich and creamy curry made with prawns and coconut milk.",
+        "estimated_time": "1 hour",
+        "country": "Bangladeshi"
+    },
+    {
+        "food_id": 105,
+        "food_name": "Luchi",
+        "food_img": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2019/04/img_7076_ezy-watermark_29-04-2019_08-09-27pm.jpg?w=1440&ssl=1",
+        "mini_description": "A deep-fried, puffy bread made from maida flour.",
+        "estimated_time": "30 minutes",
+        "country": "Bangladeshi"
+    },
+    {
+        "food_id": 106,
+        "food_name": "Dhokar Dalna",
+        "food_img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Bengali_Style_Dhokar_Dalna_Recipe_Spiced_Lentil_Cakes_in_Tomato_Gravy_Recipe_.jpg",
+        "mini_description": "A vegetarian dish made with lentil cakes and a tomato-based curry.",
+        "estimated_time": "1 hour",
+        "country": "Bangladeshi"
+    }
+]
